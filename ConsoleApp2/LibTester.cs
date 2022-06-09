@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using QuantUtilityLibraries;
 
-class Program
+class LibTester
 {
     static void Main(string[] args)
     {
