@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "R", "R", "{F17EF799-F87C-4EAB-BC86-10F48685B014}"
 	ProjectSection(SolutionItems) = preProject
 		quant-model.R = quant-model.R
+		rest-interface.R = rest-interface.R
 	EndProjectSection
 EndProject
 Global
