@@ -12,6 +12,12 @@ click on the images to enlarge
 
 ## REST Interface
 
+Note, as part of the project, the code below can be encapsulated in a DSL interface/facade like the design of e.g.:
+
+https://github.com/rest-client/rest-client
+
+the R code for interfacing with REST services:
+
 https://github.com/evoisec/quant-model/blob/master/rest-interface.R 
 
 ![Data Model](https://github.com/evoisec/quant-model/blob/master/doc/rest.jpg)
