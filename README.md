@@ -1,5 +1,11 @@
 # R Interfaces to C# shared libs and REST services
 
+## R Interface Architecture
+
+click on the images to enlarge
+
+![Data Model](https://github.com/evoisec/quant-model/blob/master/doc/rdiagram.jpg)
+
 ## Interfaces to C# assembly libs
 
 https://github.com/evoisec/quant-model/blob/master/quant-model.R
