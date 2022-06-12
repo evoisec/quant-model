@@ -1,6 +1,6 @@
 # R Interfaces to C# shared libs and REST services
 
-## R Interface Architecture
+## The Overall R Interface Architecture
 
 click on the images to enlarge
 
