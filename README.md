@@ -41,6 +41,12 @@ see here example code of gRPC session/call staright from R
 https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 
+Recap of all Options for Platform Imdependent Interfaces:
+
+| Interface | Payload Data  Encoding |
+| ------- | --- |
+| Micorservice HTTP REST | JSON |
+
 click on the images to enlarge
 
 ![Data Model](https://github.com/evoisec/quant-model/blob/master/doc/rdiagram3.jpg)
