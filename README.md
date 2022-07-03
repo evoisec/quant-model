@@ -45,7 +45,11 @@ Recap of all Options for Platform Imdependent Interfaces:
 
 | Interface | Payload Data  Encoding |
 | ------- | --- |
-| Micorservice HTTP REST | JSON |
+| Microservice HTTP REST | JSON |
+| Microservice HTTP REST | Binary - e.g. Google Protocol Buffers |
+| Microservice AMQP Message Bus | JSON |
+| Microservice AMQP Message Bus | Binary - e.g. Google Protocol Buffers |
+| Microservice gRPC | Binary - Google Protocol Buffers |
 
 click on the images to enlarge
 
