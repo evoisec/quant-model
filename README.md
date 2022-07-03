@@ -73,7 +73,7 @@ Note, as part of the project, the code below can be encapsulated in a DSL interf
 
 https://github.com/rest-client/rest-client
 
-also beside httr, there is httr2 package for R
+also beside httr, there is httr2 package for R, support of HTTP/2 is available in curl (through curl options) which in turn is used by httr
 
 https://httr.r-lib.org/
 
