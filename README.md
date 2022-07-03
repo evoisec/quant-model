@@ -43,7 +43,7 @@ https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 Recap of all Options for Platform Imdependent Interfaces:
 
-| Interface | Payload Data  Encoding |
+| Interface - Commuinication Protocol | Message Payload Data  Encoding |
 | ------- | --- |
 | Microservice HTTP REST | JSON |
 | Microservice HTTP REST | Binary - e.g. Google Protocol Buffers |
