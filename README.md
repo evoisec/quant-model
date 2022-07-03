@@ -45,7 +45,7 @@ https://httr.r-lib.org/
 
 https://httr2.r-lib.org/
 
-the R code for interfacing with REST services:
+the R code for interfacing with REST services and producing R objects (e.g. dataframe) from the returned data:
 
 https://github.com/evoisec/quant-model/blob/master/rest-interface.R 
 
