@@ -4,7 +4,7 @@
 
 click on the images to enlarge
 
-![Data Model](https://github.com/evoisec/quant-model/blob/master/doc/rinterfaces.jpg)
+![Data Model](https://github.com/evoisec/quant-model/blob/master/doc/rinterfaces2.jpg)
 
 Also note, that wrapping and exposing legacy/existing C# Libs as microservices, can be automated (wholesale) through Code Generation of the “boiler plate” REST/MicroService API Interface Code and through the use of Interface Specification standards like Google Protocol Buffers (I have used ProtoBufs with various programming languages and essentially it is the successor of CORBA – a platform independent interface standard from the recent past). It is “boiler plate”, because whats unique is the business logic inside the C# lib, the exposure of the method signatures of the C# lib as microservice API is straightforward and always the same in terms of the approach to its implementation in code
 
