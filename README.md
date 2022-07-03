@@ -30,26 +30,28 @@ https://www.grpc.io/about/#the-story-behind-grpc
 
 https://developers.google.com/protocol-buffers/docs/csharptutorial
 
-gRPC for R:
+Google Protocol Buffers for R:
 
 https://cran.r-project.org/web/packages/RProtoBuf/index.html
 
+Google gRPC for R:
+
 https://github.com/nfultz/grpc
 
-see here example code of gRPC session/call staright from R 
+see here example code of gRPC session/call staright from R to remote platform independent gRPC Server which can be e.g. C# lib exposed as gRPC Server
 
 https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 
 Recap of all Options for Platform Imdependent Interfaces:
 
-| Interface - Commuinication Protocol | Message Payload Data  Encoding |
+| Interface - Commuinication Protocol | Message Payload Data  Encoding | Sync - Async !
 | ------- | --- |
-| Microservice HTTP REST | JSON |
-| Microservice HTTP REST | Binary - e.g. Google Protocol Buffers |
-| Microservice AMQP Message Bus | JSON |
-| Microservice AMQP Message Bus | Binary - e.g. Google Protocol Buffers |
-| Microservice gRPC | Binary - Google Protocol Buffers |
+| Microservice HTTP REST | JSON | Sync, but can also be used to implement Async Callbacks |
+| Microservice HTTP REST | Binary - e.g. Google Protocol Buffers | Sync, but can also be used to implement Async Callbacks |
+| Microservice AMQP Message Bus | JSON | Sync and Async |
+| Microservice AMQP Message Bus | Binary - e.g. Google Protocol Buffers | Sync and Async |
+| Microservice gRPC | Binary - Google Protocol Buffers | Sync and Async |
 
 click on the images to enlarge
 
