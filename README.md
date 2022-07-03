@@ -22,15 +22,23 @@ https://github.com/Azure/autorest
 
 And gRPC interfaces (platform and language independent) can be used directly from R without restrting to REST interface flavour 
 
+Google gRPC and Google Protocol Buffers are available and supported for C#
+
 https://www.grpc.io/docs/what-is-grpc/introduction/
 
 https://www.grpc.io/about/#the-story-behind-grpc
 
 https://developers.google.com/protocol-buffers/docs/csharptutorial
 
+gRPC for R:
+
 https://cran.r-project.org/web/packages/RProtoBuf/index.html
 
 https://github.com/nfultz/grpc
+
+see here example code of gRPC session/call staright from R 
+
+https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 
 click on the images to enlarge
