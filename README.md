@@ -39,6 +39,11 @@ Note, as part of the project, the code below can be encapsulated in a DSL interf
 
 https://github.com/rest-client/rest-client
 
+also beside httr, there is httr2 package for R
+
+https://httr.r-lib.org/
+https://httr2.r-lib.org/
+
 the R code for interfacing with REST services:
 
 https://github.com/evoisec/quant-model/blob/master/rest-interface.R 
