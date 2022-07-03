@@ -20,6 +20,8 @@ https://github.com/Azure/autorest
 
 And gRPC interfaces (platform and language independent) can be used directly from R without restrting to REST interface flavour 
 
+https://developers.google.com/protocol-buffers/docs/csharptutorial
+
 https://cran.r-project.org/web/packages/RProtoBuf/index.html
 
 https://github.com/nfultz/grpc
