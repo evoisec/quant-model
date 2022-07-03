@@ -54,7 +54,7 @@ JSON in R
 
 https://cran.r-project.org/web/packages/jsonlite/index.html 
 
-the httr and jsonlite code can be encapsulated in a DSL interface/facade like the design of e.g.:
+the httr and jsonlite client code can be further encapsulated in a DSL interface/facade like the design of e.g.:
 
 https://github.com/rest-client/rest-client
 
