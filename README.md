@@ -58,7 +58,7 @@ the httr and jsonlite client code can be further encapsulated in a DSL interface
 
 https://github.com/rest-client/rest-client
 
-Recap of all Options for Platform Independent Interfaces:
+Recap of all Options for Platform Independent Interfaces between R code and C# libs:
 
 | Interface and Communication Protocol | Message Payload Data  Encoding | Synchronous - Asynchronous | HTTP/2 Support | Automated Code Generation | Reliable Vendor for R and C# |
 | ------- | --- |  --- |  --- |  --- |--- |
