@@ -34,7 +34,7 @@ Google Protocol Buffers for R:
 
 https://cran.r-project.org/web/packages/RProtoBuf/index.html
 
-Google gRPC for R:
+Google gRPC for R (unfortunatelly not from Google, unlike the one for C#):
 
 https://github.com/nfultz/grpc
 
