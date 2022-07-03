@@ -12,9 +12,11 @@ https://developers.google.com/protocol-buffers
 
 here is an automated code generation framework based on the approach described above   - such approaches would allow the rapid and wholesale enablement of legacy C# libs as platform independent microservices – platform independent in terms of interface and platform independent in terms of the underlying OS (Windows, Linux, MacOS) and .NET CLR version if packaged as docker containers   
 
+however the maintanence of the code generation farnework is not from a reliable vendor like Microsoft or Google and therefore can be discontinued at any time
+
 https://www.codeproject.com/Articles/5280533/Driving-Development-of-Microservices-and-REST-APIs 
 
-then, finally, the code generation of client stubs (ie the client side of the rest microservice interface code) can be automated as well (however probably not for the R langues) by using this MS framework / tool 
+then, finally, the code generation of client stubs (ie the client side of the rest microservice interface code) can be automated as well (however not for the R language at present) by using this MS framework / tool 
 
 https://github.com/Azure/autorest
 
@@ -29,6 +31,7 @@ https://developers.google.com/protocol-buffers/docs/csharptutorial
 https://cran.r-project.org/web/packages/RProtoBuf/index.html
 
 https://github.com/nfultz/grpc
+
 
 click on the images to enlarge
 
