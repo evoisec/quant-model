@@ -42,6 +42,21 @@ see here example code of gRPC session/call staright from R to remote platform in
 
 https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
+HTTP REST support in R
+
+httr and httr2 package for R, support of HTTP/2 is available in curl (through curl options) which in turn is used by httr
+
+https://httr.r-lib.org/
+
+https://httr2.r-lib.org/
+
+JSON in R
+
+https://cran.r-project.org/web/packages/jsonlite/index.html 
+
+the httr and jsonlite code can be encapsulated in a DSL interface/facade like the design of e.g.:
+
+https://github.com/rest-client/rest-client
 
 Recap of all Options for Platform Independent Interfaces:
 
@@ -68,16 +83,6 @@ click on the images to enlarge
 ![Data Model](https://github.com/evoisec/quant-model/blob/master/doc/rclr.jpg)
 
 ## REST Interface
-
-Note, as part of the project, the code below can be encapsulated in a DSL interface/facade like the design of e.g.:
-
-https://github.com/rest-client/rest-client
-
-also beside httr, there is httr2 package for R, support of HTTP/2 is available in curl (through curl options) which in turn is used by httr
-
-https://httr.r-lib.org/
-
-https://httr2.r-lib.org/
 
 the R code for interfacing with REST services and producing R objects (e.g. dataframe) from the returned data:
 
