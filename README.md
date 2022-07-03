@@ -45,13 +45,13 @@ https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 Recap of all Options for Platform Independent Interfaces:
 
-| Interface and Communication Protocol | Message Payload Data  Encoding | Synchronous - Asynchronous |
-| ------- | --- |  --- |
-| Microservice HTTP REST | JSON | Sync, but can also be used to implement Async Callbacks |
-| Microservice HTTP REST | Binary - e.g. Google Protocol Buffers | Sync, but can also be used to implement Async Callbacks |
-| Microservice AMQP Message Bus | JSON | Sync and Async |
-| Microservice AMQP Message Bus | Binary - e.g. Google Protocol Buffers | Sync and Async |
-| Microservice gRPC | Binary - Google Protocol Buffers | Sync and Async |
+| Interface and Communication Protocol | Message Payload Data  Encoding | Synchronous - Asynchronous | HTTP/2 Support | Reliable Vendor for R and C#|
+| ------- | --- |  --- |  --- |  --- |
+| Microservice HTTP REST | JSON | Sync, but can also be used to implement Async Callbacks ||
+| Microservice HTTP REST | Binary - e.g. Google Protocol Buffers | Sync, but can also be used to implement Async Callbacks |||
+| Microservice AMQP Message Bus | JSON | Sync and Async |||
+| Microservice AMQP Message Bus | Binary - e.g. Google Protocol Buffers | Sync and Async |||
+| Microservice gRPC | Binary - Google Protocol Buffers | Sync and Async |||
 
 click on the images to enlarge
 
