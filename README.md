@@ -45,7 +45,7 @@ https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 Recap of all Options for Platform Independent Interfaces:
 
-| Interface and Communication Protocol | Message Payload Data  Encoding | Synchronous - Asynchronous | HTTP/2 Support | Reliable Vendor for R and C#|Automated Code Generation |
+| Interface and Communication Protocol | Message Payload Data  Encoding | Synchronous - Asynchronous | HTTP/2 Support | Automated Code Generation | Reliable Vendor for R and C# |
 | ------- | --- |  --- |  --- |  --- |--- |
 | Microservice HTTP REST | JSON | Sync, but can also be used to implement Async Callbacks ||||
 | Microservice HTTP REST | Binary - e.g. Google Protocol Buffers | Sync, but can also be used to implement Async Callbacks ||||
