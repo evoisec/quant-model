@@ -43,9 +43,9 @@ see here example code of gRPC session/call staright from R to remote platform in
 https://github.com/nfultz/grpc/blob/master/demo/helloserver.R
 
 
-Recap of all Options for Platform Imdependent Interfaces:
+Recap of all Options for Platform Independent Interfaces:
 
-| Interface - Commuinication Protocol | Message Payload Data  Encoding | Sync - Async |
+| Interface - Commuinication Protocol | Message Payload Data  Encoding | Synchronous - Asynchronous |
 | ------- | --- |  --- |
 | Microservice HTTP REST | JSON | Sync, but can also be used to implement Async Callbacks |
 | Microservice HTTP REST | Binary - e.g. Google Protocol Buffers | Sync, but can also be used to implement Async Callbacks |
